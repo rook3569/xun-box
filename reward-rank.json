@@ -1,0 +1,8 @@
+{
+  "updatedAt": "2026-11-17",
+  "list": [
+    { "name": "老玩家的浪漫", "amount": 1000, "virtual": true },
+    { "name": "半盏清茶", "amount": 888, "virtual": true },
+    { "name": "流浪的蛤蟆", "amount": 666, "virtual": true }
+  ]
+}
